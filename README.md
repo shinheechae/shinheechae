@@ -1,6 +1,7 @@
 ### Hey there, I'm Shinhee Chae!🙋🏻‍♀️
 
-- I am currently taking a Web Dev course at DCI.
-- Based in Berlin, I love to explore different cultures.
-- Sharing ideas via GH would be awesome!🤟🏻
-- Sunday 10K would be a great chance to get to know each other, join me🏃‍♀️!
+- I'm currently taking a Web Dev course at DCI aiming for MERN stack.
+- So far I've learned to speak HTML5, CSS3 and JS. In my repos, you'll find my projects done with VanillaJs and ReactJs. I am also familiar with Bootstrap and Material-UI. 
+- I recently started a back-end course. Sharing ideas would be awesome!🤟🏻
+- Or Sunday 10K would be a great chance to get to know each other, so join me anytime🏃‍!  
+- Drop me a line: shinheechae@gmail.com
