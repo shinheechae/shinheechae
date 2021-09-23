@@ -5,3 +5,5 @@
 - I recently started to build apps using MERN stack. Sharing ideas would be awesome!🤟🏻
 - Or Sunday 10K would be a great chance to get to know each other, so join me anytime🏃‍!  
 - Drop me a line: shinheechae@gmail.com
+- [My Portfolio](https://shinheechae-portfolio-shinheechae.vercel.app/)
+
